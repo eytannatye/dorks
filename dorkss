@@ -9,12 +9,12 @@ site:.com inurl:/wp-content/themes/
 
 
 
-site:admin.HIDDEN.com inurl:admin
-site:admin.HIDDEN.com inurl:dashboard
-site:admin.HIDDEN.com filetype:env
-site:admin.HIDDEN.com filetype:sql
-site:admin.HIDDEN.com “index of”
-site:admin.HIDDEN.com inurl:wp-admin 
-site:admin.HIDDEN.com intext:”username”
-site:admin.HIDDEN.com ext:bak
+site:HIDDEN.com inurl:admin
+site:HIDDEN.com inurl:dashboard
+site:HIDDEN.com filetype:env
+site:HIDDEN.com filetype:sql
+site:HIDDEN.com “index of”
+site:HIDDEN.com inurl:wp-admin 
+site:HIDDEN.com intext:”username”
+site:HIDDEN.com ext:bak
 
